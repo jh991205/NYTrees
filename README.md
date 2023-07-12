@@ -15,3 +15,5 @@ Simply zoom in and out and pan on the graphs to look at the distribution in dept
 air quality(measured with air particle) and also tree distribution.
 
 ![](tree_distribution.png)
+
+Each green circle on the map represents an individual tree. The map is colored according to the air particles in the corresponding community district.
