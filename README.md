@@ -9,7 +9,9 @@ Run
 ```
 python -m http.server
 ```
-in the NYTrees workign directory
+in the NYTrees workign directory and load up the index.html page.
 
 Simply zoom in and out and pan on the graphs to look at the distribution in depth. The relationship between poverty,
 air quality(measured with air particle) and also tree distribution.
+
+![](tree_distribution.png)
