@@ -8,7 +8,7 @@ To interact with the d3.js application and explore the data visualization, follo
 
 1. **Clone the Repository:** Begin by cloning this repository to your local machine using the following command:
 ``` bash
-git clone <repository-url>
+git clone github.com/jh991205/NYTrees
 ```
 
 
