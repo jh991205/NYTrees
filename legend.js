@@ -1,8 +1,4 @@
 function drawLegend(legendSelector, legendColorScale) {
-    // This code should adapt to a variety of different kinds of color scales
-    // Credit Prof. Rz if you are basing a legend on this structure, and note PERFORMANCE CONSIDERATIONS
-    
-    // Shrink legend bar by 5 px inwards from sides of SVG
     const offsets = { width: 10,
                       top: 2,
                       bottom: 24 }; 
@@ -119,7 +115,6 @@ function drawLegend(legendSelector, legendColorScale) {
       });
     }
     
-    // Finally, draw legend labels
     legend.append("g")
           .attr("class", "legend axis")
           .attr("transform",`translate(${offsets.width},${offsets.top+barHeight+5})`)
