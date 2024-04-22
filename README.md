@@ -50,6 +50,6 @@ Each green circle on the map represents an individual tree. The map is colored a
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code. However, please be aware of any dependencies or third-party libraries that may have their own licensing terms.
+This project is licensed under the Apache 2.0 License, which means you are free to use, modify, and distribute the code. However, please be aware of any dependencies or third-party libraries that may have their own licensing terms.
 
 
